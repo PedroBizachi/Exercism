@@ -40,3 +40,6 @@ typescript/two-fer/tsconfig.json
 typescript/two-fer/yarn.lock
 typescript/resistor-color/HELP.md
 typescript/resistor-color/README.md
+typescript/resistor-color/.yarn
+typescript/resistor-color/.pnp.cjs
+typescript/resistor-color/.pnp.loader.mjs
