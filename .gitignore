@@ -43,3 +43,15 @@ typescript/resistor-color/README.md
 typescript/resistor-color/.yarn
 typescript/resistor-color/.pnp.cjs
 typescript/resistor-color/.pnp.loader.mjs
+typescript/resistor-color-duo/.exercism
+typescript/resistor-color-duo/.vscode
+typescript/resistor-color-duo/.yarnrc.yml
+typescript/resistor-color-duo/HELP.md
+typescript/resistor-color-duo/README.md
+typescript/resistor-color-duo/babel.config.cjs
+typescript/resistor-color-duo/eslint.config.mjs
+typescript/resistor-color-duo/jest.config.cjs
+typescript/resistor-color-duo/package.json
+typescript/resistor-color-duo/test-runner.mjs
+typescript/resistor-color-duo/tsconfig.json
+typescript/resistor-color-duo/yarn.lock
