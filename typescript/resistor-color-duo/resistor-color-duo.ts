@@ -1,5 +1,5 @@
 export function decodedValue(query: string[]): number {
-  return Number(COLORS.indexOf(query[0]) + COLORS.indexOf(query[0]));
+  return Number(`${COLORS.indexOf(query[0])}` + `${COLORS.indexOf(query[1])}`);
 }
 
 export const COLORS = [

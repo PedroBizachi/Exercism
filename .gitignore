@@ -55,3 +55,6 @@ typescript/resistor-color-duo/package.json
 typescript/resistor-color-duo/test-runner.mjs
 typescript/resistor-color-duo/tsconfig.json
 typescript/resistor-color-duo/yarn.lock
+typescript/resistor-color-duo/.yarn
+typescript/resistor-color-duo/.pnp.cjs
+typescript/resistor-color-duo/.pnp.loader.mjs
