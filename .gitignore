@@ -1,0 +1,12 @@
+typescript/hello-world/.exercism
+typescript/hello-world/.vscode
+typescript/hello-world/.yarnrc.yml
+typescript/hello-world/HELP.md
+typescript/hello-world/README.md
+typescript/hello-world/babel.config.cjs
+typescript/hello-world/eslint.config.mjs
+typescript/hello-world/jest.config.cjs
+typescript/hello-world/package.json
+typescript/hello-world/test-runner.mjs
+typescript/hello-world/tsconfig.json
+typescript/hello-world/yarn.lock
